@@ -26,7 +26,7 @@ class App extends Component {
             <>
                    
                 <div className="Clock">
-               <h3 id="time'">{this.state.time.toLocaleTimeString()}</h3>
+               <h3 id="time">{this.state.time.toLocaleTimeString()}</h3>
            </div>
             
             </>
